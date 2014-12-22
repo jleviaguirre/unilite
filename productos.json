@@ -1,4 +1,4 @@
-[
+productos = [
   {
     "sku":124130,
     "Categoria":"14 dias etiquetada",
@@ -29,8 +29,20 @@
   },
   {
     "sku":124156,
+ 
+Second tab with a very long label
+ 
+Third tab with a very long label
+ 
+Fourth tab with a very long label
     "Categoria":"14 dias etiquetada",
     "Color":"---",
+ 
+Second tab with a very long label
+ 
+Third tab with a very long label
+ 
+Fourth tab with a very long label
     "Descripcion":"Santa Muerte (Asunto de Ley)",
     "Tipo":"etiquetada"
   },
