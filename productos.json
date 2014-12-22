@@ -1,0 +1,3992 @@
+[
+  {
+    "sku":124130,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Ven Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124135,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Abre Camino)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124144,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Abundancia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124151,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Amor)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124156,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Asunto de Ley)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124177,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Contra Enemigos)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124178,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Contra Envidia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124181,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Negocio)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124219,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Proteccion)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124190,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Reversible)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124146,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Suerte y Dinero)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125005,
+    "Categoria":"14 dias etiquetada",
+    "Color":"---",
+    "Descripcion":"Santa Muerte (Trabajo)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124009,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"33 Esencias",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124020,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Abre Camino",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124090,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Amor Brujo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124021,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Arrasa Brujeria",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124028,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Arrasa Todo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124029,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Canela",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124040,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Chile (Blanco)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124042,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Chile (Negro)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124050,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Chile (Rojo)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124056,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Del Exito",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124216,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Destrancadera",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124067,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Juan Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124073,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124076,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Limon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124214,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Llama Clientes",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124079,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Lluvia de Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124212,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Manzana",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124086,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Miel de Amor",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124087,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Miel y Rosas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124096,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Prosperidad y Abundancia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124100,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Separa Amantes",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124102,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124109,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Ven Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124111,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Abre Camino)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124113,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Abundancia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124127,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Amor)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124129,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Asunto de Ley)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124138,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Contra Enemigos)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124145,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Contra Envidia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124148,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Negocio)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124158,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Proteccion)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124167,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Reversible)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124197,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Suerte y Dinero)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124184,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Trabajo)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124193,
+    "Categoria":"Cocktail",
+    "Color":"---",
+    "Descripcion":"Sta. Muerte (Oro)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124201,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"7 Machos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124202,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Abre Camino",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124203,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125001,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Amansa Guapos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124015,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Amarrador",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124038,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Año Feliz",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124053,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Arraza Todo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124103,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Buena Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124105,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Caso de Corte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124163,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Caso de Ley",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124176,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Chango Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125007,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124055,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Contra Daños",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124180,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Contra Embrujo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124217,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Contra Envidia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125020,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124208,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124000,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Control",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124003,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124007,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Cuerno de la Abundancia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124011,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Destrancadera",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124017,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124213,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Doble Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124030,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Doblegado a mis Pies",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124032,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124043,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124044,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Limpias y Despojos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124074,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124098,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Lluvia de Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124106,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Miel de Amor",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124114,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Prosperidad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124117,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Retiro",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124123,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Ruda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124125,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124034,
+    "Categoria":"Preparada",
+    "Color":"---",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102000,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Break Up (Vivora)",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138002,
+    "Categoria":"14 dias lisa",
+    "Color":"Café",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102071,
+    "Categoria":"14 dias lisa",
+    "Color":"Naranja",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487127,
+    "Categoria":"14 dias lisa",
+    "Color":"Azul",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487547,
+    "Categoria":"14 dias preparada",
+    "Color":"3 Colores",
+    "Descripcion":"Chango Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487540,
+    "Categoria":"14 dias preparada",
+    "Color":"7 Col",
+    "Descripcion":"7 Arcangeles",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487508,
+    "Categoria":"14 dias preparada",
+    "Color":"7 Col",
+    "Descripcion":"7 Potencias Afric",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487520,
+    "Categoria":"14 dias preparada",
+    "Color":"7 Col",
+    "Descripcion":"Abre Camino",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487537,
+    "Categoria":"14 dias preparada",
+    "Color":"7 Col",
+    "Descripcion":"San Simon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487519,
+    "Categoria":"14 dias preparada",
+    "Color":"7 Col",
+    "Descripcion":"St Muerte (Abre Camino)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487006,
+    "Categoria":"14 dias preparada",
+    "Color":"Ama",
+    "Descripcion":"Control",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487007,
+    "Categoria":"14 dias preparada",
+    "Color":"Ama",
+    "Descripcion":"Destrancadera",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487110,
+    "Categoria":"14 dias preparada",
+    "Color":"Ama",
+    "Descripcion":"Lluvia de Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487132,
+    "Categoria":"14 dias preparada",
+    "Color":"Ama",
+    "Descripcion":"Ven Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487136,
+    "Categoria":"14 dias preparada",
+    "Color":"Ama",
+    "Descripcion":"St Muerte (Suerte y Dine)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487101,
+    "Categoria":"14 dias preparada",
+    "Color":"Azul",
+    "Descripcion":"Año Feliz",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487104,
+    "Categoria":"14 dias preparada",
+    "Color":"Azul",
+    "Descripcion":"Caso de Corte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487105,
+    "Categoria":"14 dias preparada",
+    "Color":"Azul",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487111,
+    "Categoria":"14 dias preparada",
+    "Color":"Azul",
+    "Descripcion":"St Muerte (Asunto Ley)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":121017,
+    "Categoria":"14 dias preparada",
+    "Color":"Blanca",
+    "Descripcion":"Limpias y Despojos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":121004,
+    "Categoria":"14 dias preparada",
+    "Color":"Blanca",
+    "Descripcion":"St Muerte (Proteccion)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138033,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Arraza Todo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102001,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Contra Daños",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102003,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Contra Embrujo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102020,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Contra Envidia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102006,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102012,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102022,
+    "Categoria":"14 dias preparada",
+    "Color":"Morada",
+    "Descripcion":"St Muerte (Cnt Envidia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102038,
+    "Categoria":"14 dias preparada",
+    "Color":"Negra",
+    "Descripcion":"St Muerte (Cnt Enemigos)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102056,
+    "Categoria":"14 dias preparada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Buena Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102064,
+    "Categoria":"14 dias preparada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Doble Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102014,
+    "Categoria":"14 dias preparada",
+    "Color":"Oro-Ver",
+    "Descripcion":"St Muerte (Abundancia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102074,
+    "Categoria":"14 dias preparada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":123000,
+    "Categoria":"14 dias preparada",
+    "Color":"Roj-Neg",
+    "Descripcion":"St Muerte (Reversible)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124162,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"7 Machos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124166,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Amansa Guapos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124206,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Amarrador",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125000,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124004,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Doblegado a mis Pies",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124036,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124046,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Miel de Amor",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124061,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Retiro",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124200,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124182,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125017,
+    "Categoria":"14 dias preparada",
+    "Color":"Roja",
+    "Descripcion":"St Muerte (Amor)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124094,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124169,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Cuerno de la Abund.",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124175,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124185,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124194,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Prosperidad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124205,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"Ruda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124054,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124126,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"St Muerte (Negocio)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125016,
+    "Categoria":"14 dias preparada",
+    "Color":"Verde",
+    "Descripcion":"St Muerte (Trabajo)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487512,
+    "Categoria":"14 dias lisa",
+    "Color":"7 Col",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487011,
+    "Categoria":"14 dias lisa",
+    "Color":"Ama",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":121009,
+    "Categoria":"14 dias lisa",
+    "Color":"Blanca",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":138025,
+    "Categoria":"14 dias lisa",
+    "Color":"Morada",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102036,
+    "Categoria":"14 dias lisa",
+    "Color":"Negra",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102058,
+    "Categoria":"14 dias lisa",
+    "Color":"Oro",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102050,
+    "Categoria":"14 dias lisa",
+    "Color":"Oro-Ver",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102047,
+    "Categoria":"14 dias lisa",
+    "Color":"Roj-Neg",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":124204,
+    "Categoria":"14 dias lisa",
+    "Color":"Roja",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":124131,
+    "Categoria":"14 dias lisa",
+    "Color":"Rosa",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":125015,
+    "Categoria":"14 dias lisa",
+    "Color":"Verde",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487500,
+    "Categoria":"14 dias etiquetada",
+    "Color":"3 Colores",
+    "Descripcion":"Chango Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487513,
+    "Categoria":"14 dias etiquetada",
+    "Color":"7 Col",
+    "Descripcion":"San Simon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487514,
+    "Categoria":"14 dias etiquetada",
+    "Color":"7 Col",
+    "Descripcion":"St Muerte (Abre Camino)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487515,
+    "Categoria":"14 dias etiquetada",
+    "Color":"7 Col",
+    "Descripcion":"7 Arcangeles",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487516,
+    "Categoria":"14 dias etiquetada",
+    "Color":"7 Col",
+    "Descripcion":"7 Potencias Afric",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487541,
+    "Categoria":"14 dias etiquetada",
+    "Color":"7 Col",
+    "Descripcion":"Abre Camino",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487005,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Ama",
+    "Descripcion":"Destrancadera",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487009,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Ama",
+    "Descripcion":"Lluvia de Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487013,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Ama",
+    "Descripcion":"Ven Dinero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487014,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Ama",
+    "Descripcion":"St Muerte (Suerte y Dine)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487003,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Ama",
+    "Descripcion":"Control",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487129,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Azul",
+    "Descripcion":"St Muerte (Asunto Ley)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487133,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Azul",
+    "Descripcion":"Año Feliz",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487134,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Azul",
+    "Descripcion":"Caso de Corte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487138,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Azul",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":121007,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Blanca",
+    "Descripcion":"Limpias y Despojos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":121010,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Blanca",
+    "Descripcion":"St Muerte (Proteccion)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138026,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"St Muerte (Cnt Envidia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138027,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Arraza Todo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138028,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Contra Daños",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138029,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Contra Embrujo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138030,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Contra Envidia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138031,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138032,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Morada",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102037,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Negra",
+    "Descripcion":"St Muerte (Cnt Enemigos)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102068,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Doble Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102072,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Oro-Ver",
+    "Descripcion":"St Muerte (Abundancia)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102075,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Buena Suerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102057,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102061,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roj-Neg",
+    "Descripcion":"St Muerte (Reversible)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125012,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Doblegado a mis Pies",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124008,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124016,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Miel de Amor",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124022,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Retiro",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124071,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124075,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124101,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"St Muerte (Amor)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124122,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"7 Machos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124142,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Amansa Guapos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124149,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Amarrador",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124154,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Roja",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124002,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Cuerno de la Abund.",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124013,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124048,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124170,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Prosperidad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125014,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Ruda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125022,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124014,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"St Muerte (Negocio)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125021,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"St Muerte (Trabajo)",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124051,
+    "Categoria":"14 dias etiquetada",
+    "Color":"Verde",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487008,
+    "Categoria":"Perfumada",
+    "Color":"Ama",
+    "Descripcion":"Coco",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138001,
+    "Categoria":"Perfumada",
+    "Color":"Café",
+    "Descripcion":"Café",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125011,
+    "Categoria":"Perfumada",
+    "Color":"Roja",
+    "Descripcion":"Bayberry",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124033,
+    "Categoria":"Perfumada",
+    "Color":"Roja",
+    "Descripcion":"Canela",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124220,
+    "Categoria":"Perfumada",
+    "Color":"Roja",
+    "Descripcion":"Patchouli",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125019,
+    "Categoria":"Perfumada",
+    "Color":"Roja",
+    "Descripcion":"Sandalo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124137,
+    "Categoria":"Perfumada",
+    "Color":"Verde",
+    "Descripcion":"Albahacar",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124179,
+    "Categoria":"Perfumada",
+    "Color":"Verde",
+    "Descripcion":"Romero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124187,
+    "Categoria":"Perfumada",
+    "Color":"Verde",
+    "Descripcion":"Ruda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124191,
+    "Categoria":"Perfumada",
+    "Color":"Verde",
+    "Descripcion":"Tabacco",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487507,
+    "Categoria":"Lisa",
+    "Color":"7 Col",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487010,
+    "Categoria":"Lisa",
+    "Color":"Ama",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487117,
+    "Categoria":"Lisa",
+    "Color":"Ama-Mor",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487122,
+    "Categoria":"Lisa",
+    "Color":"Azul",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487142,
+    "Categoria":"Lisa",
+    "Color":"Bco-Azul",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":138037,
+    "Categoria":"Lisa",
+    "Color":"Bco-Roj",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":121000,
+    "Categoria":"Lisa",
+    "Color":"Blanca",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":138000,
+    "Categoria":"Lisa",
+    "Color":"Café",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":138024,
+    "Categoria":"Lisa",
+    "Color":"Morada",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102060,
+    "Categoria":"Lisa",
+    "Color":"Naranja",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102065,
+    "Categoria":"Lisa",
+    "Color":"Neg-Roj",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102035,
+    "Categoria":"Lisa",
+    "Color":"Negra",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102055,
+    "Categoria":"Lisa",
+    "Color":"Oro",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102039,
+    "Categoria":"Lisa",
+    "Color":"Oro-Ver",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102052,
+    "Categoria":"Lisa",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102090,
+    "Categoria":"Lisa",
+    "Color":"Rj-Ve/Or",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":102042,
+    "Categoria":"Lisa",
+    "Color":"Roj-Neg",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":124211,
+    "Categoria":"Lisa",
+    "Color":"Roja",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":124128,
+    "Categoria":"Lisa",
+    "Color":"Rosa",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":124099,
+    "Categoria":"Lisa",
+    "Color":"Verde",
+    "Descripcion":"Lisa",
+    "Tipo":"lisa"
+  },
+  {
+    "sku":487502,
+    "Categoria":"Religiosa",
+    "Color":"7 Col",
+    "Descripcion":"7 Arcangeles",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487532,
+    "Categoria":"Religiosa",
+    "Color":"7 Col",
+    "Descripcion":"7 Potencias Africanas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487536,
+    "Categoria":"Religiosa",
+    "Color":"7 Col",
+    "Descripcion":"Mano Poderosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487544,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Caridad del Cobre",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487501,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Espiritu Santo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487504,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Niño de Atocha",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487505,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487511,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"San Lazaro",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487521,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Santisima Trinidad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487522,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487527,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Santa Eduviges",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487529,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Sant Sacramento",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487533,
+    "Categoria":"Religiosa",
+    "Color":"Ama",
+    "Descripcion":"Niño de Praga",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487139,
+    "Categoria":"Religiosa",
+    "Color":"Azul",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487106,
+    "Categoria":"Religiosa",
+    "Color":"Azul",
+    "Descripcion":"V. St. Juan de Lagos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487109,
+    "Categoria":"Religiosa",
+    "Color":"Azul",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487149,
+    "Categoria":"Religiosa",
+    "Color":"Azul",
+    "Descripcion":"Virgen de Fatima",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487124,
+    "Categoria":"Religiosa",
+    "Color":"Azul",
+    "Descripcion":"La Milagrosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138038,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"7 Arcangeles",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138039,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"7 Potencias Africanas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138040,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Angel de la Guarda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138041,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Caridad del Cobre",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138042,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Divina Providencia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138043,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Divina Misericordia",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138044,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Divino Niño Jesus",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138045,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Doblemente",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126000,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Espiritu Santo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126001,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Gran Poder",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126002,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Jesus Malverde",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126003,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Justo Juez",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126004,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Mano Poderosa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126005,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Niño de Atocha",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126006,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Niño Fidencio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126007,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126008,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Sagrado Corazon Jesus",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126009,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Sagrado Corazon Maria",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126010,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Alejo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126011,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"St. Antonio de Padua",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126012,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Benito",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126013,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Charbel",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126014,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Cipriano",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126015,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Jose",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126016,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126017,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Lazaro",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126018,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Martin Caballero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126020,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Martin de Porres",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126021,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Miguel Arcangel",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126022,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Ramon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126023,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Simon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126024,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santa Martha",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126025,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santisima Trinidad",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126026,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Virgen de Guadalupe",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126027,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"V. St. Juan de Lagos",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126028,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126029,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Jesus Crucificado",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126039,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santo Toribio",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126031,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santa Clara",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126032,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Santa Teresa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126033,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"Gregorio Hdz",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126034,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"San Ignacio de Loyola",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":126035,
+    "Categoria":"Religiosa",
+    "Color":"Blanca",
+    "Descripcion":"N. S. de las Mercedes",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":121008,
+    "Categoria":"Religiosa",
+    "Color":"Café",
+    "Descripcion":"San Fco de Asis",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138004,
+    "Categoria":"Religiosa",
+    "Color":"Morada",
+    "Descripcion":"San Cipriano",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138005,
+    "Categoria":"Religiosa",
+    "Color":"Morada",
+    "Descripcion":"San Martin de Porres",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":138006,
+    "Categoria":"Religiosa",
+    "Color":"Morada",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102070,
+    "Categoria":"Religiosa",
+    "Color":"Negra",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102040,
+    "Categoria":"Religiosa",
+    "Color":"Oro",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102059,
+    "Categoria":"Religiosa",
+    "Color":"Oro-Ver",
+    "Descripcion":"San Simon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":102054,
+    "Categoria":"Religiosa",
+    "Color":"Rj-Bc-Vr",
+    "Descripcion":"Virgen de Guadalupe",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":123004,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Gran Poder",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":123002,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Justo Juez",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124012,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124164,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Sagrado Corazon Jesus",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124116,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Sagrado Corazon Maria",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124119,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124124,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"San Martin Caballero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124132,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"San Miguel Arcangel",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124136,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"San Ramon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124143,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124159,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Santa Barbara",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124186,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"V. de la Candelaria",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125003,
+    "Categoria":"Religiosa",
+    "Color":"Roja",
+    "Descripcion":"Santa Elena",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124019,
+    "Categoria":"Religiosa",
+    "Color":"Rosa",
+    "Descripcion":"Divino Niño Jesus",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124018,
+    "Categoria":"Religiosa",
+    "Color":"Rosa",
+    "Descripcion":"San Alejo",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124025,
+    "Categoria":"Religiosa",
+    "Color":"Rosa",
+    "Descripcion":"Virgen de Guadalupe",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124031,
+    "Categoria":"Religiosa",
+    "Color":"Rosa",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124173,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"Jesus Malverde",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125008,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124139,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124207,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"San Martin Caballero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124218,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"Santa Martha",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":125013,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"Virgen de Guadalupe",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124001,
+    "Categoria":"Religiosa",
+    "Color":"Verde",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":123104,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Blanca",
+    "Descripcion":"Angel de la Guarda",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":123102,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Blanca",
+    "Descripcion":"Virgen de Guadalupe",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124005,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Roja",
+    "Descripcion":"Sagrado Corazon",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124010,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Roja",
+    "Descripcion":"San Martin Caballero",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124070,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Roja",
+    "Descripcion":"San Miguel Arcangel",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":124035,
+    "Categoria":"Religiosa Perfumada",
+    "Color":"Verde",
+    "Descripcion":"San Judas",
+    "Tipo":"etiquetada"
+  },
+  {
+    "sku":487517,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487518,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487526,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Herradura",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487535,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Herradura con Ajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487545,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Jesus Malverde",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487606,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487509,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487549,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Martha Dominadora",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487539,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Para Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487524,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Trabajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487543,
+    "Categoria":"Serigrafiada",
+    "Color":"7 Col",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487534,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"7 Nudos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487538,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487503,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Control",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487548,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Cruz de Caravaca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487523,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Destrancadera",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487525,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Jala - Jala",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487528,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487530,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Margarita Catalan",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487531,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Pagame",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487542,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Pajaro Macua",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487546,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487015,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Reyna Araña",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487012,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"San Expedito",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487002,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Oshun Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487004,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Oya Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487000,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487100,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Contra Daños",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487147,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Contra Embrujo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487102,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487118,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Contra Maleficio",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487126,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Haras mi Voluntad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487135,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Tumba Trabajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487145,
+    "Categoria":"Serigrafiada",
+    "Color":"Ama-Mor",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487143,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Año Feliz",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487141,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Asunto de Ley",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487107,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Callate la boca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487112,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Caso de Corte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487113,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Contra la Ley",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487114,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487115,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Coyote",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487116,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Domina Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487140,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Estudiante",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487120,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Indio Poderoso",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487137,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487108,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Paz en el Hogar",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487119,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Santa Dimphna",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487144,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Virgen de la Regla",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487121,
+    "Categoria":"Serigrafiada",
+    "Color":"Azul",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487148,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Año Feliz",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487123,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Contra la Ley",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487125,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Coyote",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487128,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Paz en el Hogar",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487130,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Yemaya",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487131,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Azul",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487146,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Neg",
+    "Descripcion":"Bien y Mal",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":487103,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Neg",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138034,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Neg",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138035,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Roj",
+    "Descripcion":"Chango Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138036,
+    "Categoria":"Serigrafiada",
+    "Color":"Bco-Roj",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123101,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123103,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123105,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Año Feliz",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123108,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123100,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Corre Diablo Corre",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123106,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Elegua",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123107,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Jesus Malverde",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123109,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Margarita Catalan",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121011,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Niño Fidencio",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121001,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121018,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Pedrito Jaramillo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121003,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Retiro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121014,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Obatala Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121019,
+    "Categoria":"Serigrafiada",
+    "Color":"Blanca",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121013,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"7 Machos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121016,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Break Up (Separa)",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121015,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Caso de Corte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121012,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Contra Envidia",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121002,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Patchouli",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121005,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Tabacco",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":121006,
+    "Categoria":"Serigrafiada",
+    "Color":"Café",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138003,
+    "Categoria":"Serigrafiada",
+    "Color":"Mor-Neg",
+    "Descripcion":"Aleja Demonios",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138007,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138008,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Arraza Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138046,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Better Business",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138009,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Commanding",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138010,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Contra Envidia",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138011,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138012,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Corta Envidia",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138013,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Desenvolvimiento",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138014,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Garrapata",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138015,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Herradura",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138016,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Herradura con Ajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138017,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Juan Conquistador",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138018,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138019,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Piedra Iman",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138020,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Rey Salomon",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138021,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Rompe Conjuros",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138022,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Uncrossing",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":138023,
+    "Categoria":"Serigrafiada",
+    "Color":"Morada",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102025,
+    "Categoria":"Serigrafiada",
+    "Color":"Naranja",
+    "Descripcion":"Reyna Araña",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102045,
+    "Categoria":"Serigrafiada",
+    "Color":"Naranja",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102080,
+    "Categoria":"Serigrafiada",
+    "Color":"Neg-Azul",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102087,
+    "Categoria":"Serigrafiada",
+    "Color":"Neg-Azul",
+    "Descripcion":"Ochosi Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102089,
+    "Categoria":"Serigrafiada",
+    "Color":"Neg-Roj",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102026,
+    "Categoria":"Serigrafiada",
+    "Color":"Neg-Roj",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102078,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"3 Calaveras",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102088,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Break Up (Separa)",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102002,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Calla Chisme (Cobra)",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102004,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Chile",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102005,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Cobra Arrasa Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102007,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102084,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Corre Diablo Corre",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102008,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Corta Maldad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102010,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Desamarre",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102011,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Destierro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102013,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Gallina Negra",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102015,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Gato Negro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102017,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Lista Negra Dume",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102019,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Muerte Contra Enem",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102021,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Quita Mala Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102023,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Retiro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102024,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Rompe Bloque",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102029,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102031,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Tumba Trabajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102033,
+    "Categoria":"Serigrafiada",
+    "Color":"Negra",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102043,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Chango Macho",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102044,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Control",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102048,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Destrancadera",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102049,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Jala - Jala",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102051,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Pagame",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102053,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102062,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Astrologia",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102066,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Buena Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102067,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Cruz de Caravaca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102076,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Cuerno de Abundan.",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102077,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Doble Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102079,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Don Dinero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102081,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Lluvia de Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102082,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Suerte Rapida",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102085,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Trabajo Fijo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102091,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Una Gota de Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102083,
+    "Categoria":"Serigrafiada",
+    "Color":"Oro-Ver",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102018,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"3 Potencias",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102028,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102030,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Chango Macho",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102032,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Rey Salomon",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102041,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102046,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Am-Az",
+    "Descripcion":"Santa Muerte Ciega/Sorda/Muda",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102073,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Ve/Or",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102086,
+    "Categoria":"Serigrafiada",
+    "Color":"Rj-Ve/Or",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102092,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102009,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Doble Reversible",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102034,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Retiro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102063,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Rompe Bloque",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102069,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102016,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":102027,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Neg",
+    "Descripcion":"Elegua Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123005,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Ver",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123001,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Ver",
+    "Descripcion":"Jorobado",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":123003,
+    "Categoria":"Serigrafiada",
+    "Color":"Roj-Ver",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124083,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124093,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Amarrador",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124121,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Amarrado y Clavet.",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124134,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Anima Sola",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124141,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Atraccion",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124150,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Atrayente",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124153,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Calla Chisme (Cobra)",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124155,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Camaleon",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124172,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Chile",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124195,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Cobra Arrasa Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124209,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Contra Hechizos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124210,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Contra Maldad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125006,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124059,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Corre Diablo Corre",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124060,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Corta Hechizos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124063,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Corta Maldad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124068,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Coyote Arrasa Todo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124112,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Del Desespero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124189,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Desamarre",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125010,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Doblegado a mis Pies",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124024,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Dragon",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124027,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124047,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Garrapata",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124045,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Haras mi Voluntad",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124064,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Herradura",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124072,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Juan Conquistador",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124081,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Juan Minero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124097,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Love Drawing",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124104,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Miel de Amor",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124107,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Muerte Contra Enem",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124157,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124160,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Retiro",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124140,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"San Deshacedor",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124006,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Tapa Boca",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125004,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Ven a Mi",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124023,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Yo Domino mi Hom.",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124065,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Yo Domino mi Muj.",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124082,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Yo Puedo mas que Tu",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124161,
+    "Categoria":"Serigrafiada",
+    "Color":"Roja",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124058,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Adan & Eva",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124062,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Buda Oriental",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124215,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124078,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Espiritu Intranquilo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124089,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Exito",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124165,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Pide un Deseo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124115,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Rosa Milagrosa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124118,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124196,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa-Ver",
+    "Descripcion":"Chuparrosa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124171,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa-Ver",
+    "Descripcion":"Suerte Rapida",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124198,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa-Ver",
+    "Descripcion":"Trabajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124192,
+    "Categoria":"Serigrafiada",
+    "Color":"Rosa-Ver",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125009,
+    "Categoria":"Serigrafiada",
+    "Color":"Ver-Neg",
+    "Descripcion":"Ogun Orishas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124037,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"3 Budas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124041,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"7 Machos",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124052,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"9 Hierbas",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124057,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Abre Camino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124066,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Ajo Macho",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124077,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Albahacar",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124080,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Bayberry",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124088,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Better Business",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124091,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Camaleon",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124108,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Casino",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124110,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Corderito Manso",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124133,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Don Dinero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124147,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Exito",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124199,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Herradura",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124168,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Herradura con Ajo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124174,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Jesus Malverde",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124183,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Jorobado",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124188,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Jugadores",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125002,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Levanta Negocio",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124049,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Llama Cliente",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124069,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Martha Dominadora",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124092,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Pagame",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124120,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Pancho Villa",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124152,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Romero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":125018,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Ruda",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124026,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Suerte Rapida",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124039,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Trabajo Fijo",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124084,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Una Gota de Suerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124085,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Ven Dinero",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":124095,
+    "Categoria":"Serigrafiada",
+    "Color":"Verde",
+    "Descripcion":"Santa Muerte",
+    "Tipo":"serigrafiada"
+  },
+  {
+    "sku":10000,
+    "Categoria":"Serigrafiada",
+    "Color":"roj-ver-neg",
+    "Descripcion":"triple irreversible",
+    "Tipo":"serigrafiada"
+  }
+]
